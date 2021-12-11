@@ -1,5 +1,5 @@
 <h1 align="center">Hi :‎‎‎‎‎‎‎), I'm Mateusz</h1>
-<h3 align="center">A begininng full-stack (80% frontend) developer from Poland 🇵🇱</h3>
+<h3 align="center">A begininng full-stack (¾ frontend) developer from Poland 🇵🇱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprotka2137&label=Profile%20views&color=0e75b6&style=flat" alt="paprotka2137" /> </p>
 
