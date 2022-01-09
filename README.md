@@ -18,7 +18,7 @@
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/mLib-Project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mLib-Project/mLib/main/public/img/icons/icon512.png" alt="mlib" height="50" width="50" /></a>
-<a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/AnalyseMe-Project/AnalyseMe/main/public/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
+<a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
 <a href="https://github.com/Aard-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
 <a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
@@ -64,9 +64,10 @@
   
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="37" height="37"/> </a>
 
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-<a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
+  
 </p>
 
 <h3 align="left">Support:</h3>
