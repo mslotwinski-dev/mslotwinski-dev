@@ -1,6 +1,6 @@
 <h1 align="center">Hi :‎‎‎‎‎‎‎), I'm Mateusz</h1>
 <h3 align="center">A begininng full-stack (¾ frontend) developer from Poland 🇵🇱</h3>
-<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=cloudy-app&orgs=mlib-project&orgs=analyseme-project&orgs=genesis-organization&orgs=shin-stats&orgs=ampere-engine">✨✨ SHOW STATS ✨✨</a></h3>
+<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=genesis-organization&orgs=shin-stats&orgs=ampere-engine">✨✨ SHOW STATS ✨✨</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprotka2137&label=Profile%20views&color=0e75b6&style=flat" alt="paprotka2137" /> </p>
 
