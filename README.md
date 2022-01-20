@@ -22,13 +22,6 @@
 <a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://fb.com/czesc.tu.mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="czesc.tu.mati" height="30" width="40" /></a>
-<a href="https://instagram.com/mateusz.slotwinski_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusz.slotwinski_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucklh5pylv7ofnjcxlcb8jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucklh5pylv7ofnjcxlcb8jpg" height="30" width="40" /></a>
-</p>
-
 <h2 align="left">Languages and Tools:</h2> <p align="left">
 Languages:<br>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="37" height="37"/> </a>
@@ -68,6 +61,13 @@ Testing:<br>
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
   
+</p>
+
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://fb.com/czesc.tu.mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="czesc.tu.mati" height="30" width="40" /></a>
+<a href="https://instagram.com/mateusz.slotwinski_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusz.slotwinski_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucklh5pylv7ofnjcxlcb8jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucklh5pylv7ofnjcxlcb8jpg" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">Support:</h2>
