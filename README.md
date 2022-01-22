@@ -23,9 +23,9 @@
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Minor</h4>
-<a href="https://github.com/paptotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/paptotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/314/mango_1f96d.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/314/mango_1f96d.png" height="50" width="50" /></a>
 
 <h4>Ideas</h4>
 
@@ -41,9 +41,9 @@
 - Game?
 
 <h4>Abaddoned</h4>
-<a href="https://github.com/paptotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
+<a href="https://github.com/paprotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
 <a href="https://github.com/paprotka2137/lightning" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Lightning/7712ad1b51fd1efcd7f004b218b48dd8728c6253/public/img/icons/lightning.svg" height="50" width="50" /></a>
-<a href="https://github.com/paptotka2137/notekeeper" target="blank"><img align="center" style="border-radius:5px;" src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/64/Character_Tainted_Keeper_appearance.png/revision/latest?cb=20210824113014" height="50" width="40" /></a>
+<a href="https://github.com/paprotka2137/notekeeper" target="blank"><img align="center" style="border-radius:5px;" src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/64/Character_Tainted_Keeper_appearance.png/revision/latest?cb=20210824113014" height="50" width="40" /></a>
 
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
