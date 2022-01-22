@@ -14,16 +14,40 @@
 - ⚡ Fun fact **I love ducks 🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆**
 
 <h2 align="left">PROJECTS</h2>
+<h4>Main</h4>
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/mLib-Project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mLib-Project/mLib/main/public/img/icons/icon512.png" alt="mlib" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
 <a href="https://github.com/Aard-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
-<a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
+<h4>Minor</h4>
+<a href="https://github.com/paptotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
+<a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/paptotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/whatsapp/314/mango_1f96d.png" height="50" width="50" /></a>
+
+<h4>Ideas</h4>
+
+- Maxwell App ✨
+- Weather Forecast?
+- New personal website
+- Blog site?
+- E commerce?
+- Todo?
+- Medicinal app?
+- Workout tracker?
+- Zoom?
+- Game?
+
+<h4>Abaddoned</h4>
+<a href="https://github.com/paptotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
+<a href="https://github.com/paprotka2137/lightning" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Lightning/7712ad1b51fd1efcd7f004b218b48dd8728c6253/public/img/icons/lightning.svg" height="50" width="50" /></a>
+<a href="https://github.com/paptotka2137/notekeeper" target="blank"><img align="center" style="border-radius:5px;" src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/64/Character_Tainted_Keeper_appearance.png/revision/latest?cb=20210824113014" height="50" width="40" /></a>
+
+
 <h2 align="left">Languages and Tools:</h2> <p align="left">
-Languages:<br>
+<h4>Languages</h4>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="37" height="37"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="37" height="37"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="37" height="37"/> </a> 
@@ -33,7 +57,7 @@ Languages:<br>
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 
-Frontend:<br>
+<h4>Frontend</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37" height="37"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="37" height="37"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/> </a> 
@@ -46,17 +70,17 @@ Frontend:<br>
 <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="37" height="37"/> </a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
   
-Backend:<br>
+<h4>Backend</h4>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="37" height="37"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="37" height="37"/> </a> 
 <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="37" height="37"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="37" height="37"/> </a> 
 <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="37" height="37"/> </a> 
   
-Databases:<br>
+<h4>Databases</h4>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="37" height="37"/> </a>
 
-Testing:<br>
+<h4>Testing</h4>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
 <a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
