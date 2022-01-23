@@ -40,7 +40,7 @@
 - Zoom?
 - Game?
 
-<h4>Abaddoned</h4>
+<h4>Abandoned</h4>
 <a href="https://github.com/paprotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
 <a href="https://github.com/paprotka2137/lightning" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Lightning/7712ad1b51fd1efcd7f004b218b48dd8728c6253/public/img/icons/lightning.svg" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/notekeeper" target="blank"><img align="center" style="border-radius:5px;" src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/64/Character_Tainted_Keeper_appearance.png/revision/latest?cb=20210824113014" height="50" width="40" /></a>
