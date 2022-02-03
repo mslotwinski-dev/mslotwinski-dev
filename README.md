@@ -30,14 +30,15 @@
 <h4>Future</h4>
 
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Alchemy-IO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98558660?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Alchemy-IO" target="blank"><img align="center" style="border-radius:5px" src="https://avatars.githubusercontent.com/u/98558660?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/WeatherIO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98719315?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Iceberg-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923470?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Unia-Wolnosci" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924073?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924426?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Day-Log" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/URLeaf" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98991330?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Abandoned</h4>
 <a href="https://github.com/paprotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
@@ -54,6 +55,7 @@
 <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="37" height="37"/> </a> 
 <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 
 <h4>Frontend</h4>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37" height="37"/> </a> 
