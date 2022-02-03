@@ -1,6 +1,6 @@
 <h1 align="center">Hi :‎‎‎‎‎‎‎), I'm Mateusz</h1>
 <h3 align="center">A begininng full-stack (¾ frontend) developer from Poland 🇵🇱</h3>
-<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=genesis-organization&orgs=shin-stats&orgs=ampere-engine">✨✨ SHOW STATS ✨✨</a></h3>
+<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=genesis-organization&orgs=shin-stats&orgs=ampere-engine&orgs=note-keeper">✨✨ SHOW STATS ✨✨</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprotka2137&label=Profile%20views&color=0e75b6&style=flat" alt="paprotka2137" /> </p>
 
@@ -27,22 +27,21 @@
 <a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 
-<h4>Ideas</h4>
+<h4>Future</h4>
 
-- Maxwell App ✨ (Advanced Scientific Calculator)
-- Weather Forecast?
-- Blog site?
-- E-commerce site?
-- Todo app?
-- Medicinal app?
-- Workout tracker?
-- Something like zoom?
-- Game?
+<a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Alchemy-IO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98558660?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/WeatherIO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98719315?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Iceberg-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923470?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Unia-Wolnosci" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924073?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924426?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Abandoned</h4>
 <a href="https://github.com/paprotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
 <a href="https://github.com/paprotka2137/lightning" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Lightning/7712ad1b51fd1efcd7f004b218b48dd8728c6253/public/img/icons/lightning.svg" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/notekeeper" target="blank"><img align="center" style="border-radius:5px;" src="https://static.wikia.nocookie.net/bindingofisaacre_gamepedia/images/6/64/Character_Tainted_Keeper_appearance.png/revision/latest?cb=20210824113014" height="50" width="40" /></a>
 
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
