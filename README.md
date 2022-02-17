@@ -23,15 +23,15 @@
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Minor</h4>
-<a href="https://github.com/paprotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/src/public/pwa/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Future</h4>
 
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Alchemy-IO" target="blank"><img align="center" style="border-radius:5px" src="https://avatars.githubusercontent.com/u/98558660?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/WeatherIO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98719315?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Iceberg-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923470?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
