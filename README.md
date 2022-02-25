@@ -31,20 +31,14 @@
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 
 <h4>Future</h4>
-
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Alchemy-IO" target="blank"><img align="center" style="border-radius:5px" src="https://avatars.githubusercontent.com/u/98558660?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Day-Log" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/URLeaf" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98991330?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/WeatherIO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98719315?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Iceberg-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923470?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Unia-Wolnosci" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924073?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924426?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Day-Log" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/URLeaf" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98991330?s=200&v=4" height="50" width="50" /></a>
-
-<h4>Abandoned</h4>
-<a href="https://github.com/paprotka2137/escience" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/eScience/main/src/assets/logo.png" height="50" width="140" /></a>
-<a href="https://github.com/paprotka2137/lightning" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Lightning/7712ad1b51fd1efcd7f004b218b48dd8728c6253/public/img/icons/lightning.svg" height="50" width="50" /></a>
 
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
