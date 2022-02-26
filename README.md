@@ -14,16 +14,12 @@
 - ⚡ Fun fact **I love ducks 🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆**
 
 <h2 align="left">PROJECTS</h2>
-<h4>✨Aard✨</h4>
-<a href="https://github.com/Aard-Inc" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100451989?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Aard-Youtube" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/95868649?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Aard-Lang" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100322301?s=200&v=4" height="50" width="50" /></a>
-
 <h4>Main</h4>
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Aard-Official" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
 
 <h4>Normal</h4>
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
