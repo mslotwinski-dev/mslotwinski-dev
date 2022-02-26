@@ -14,11 +14,15 @@
 - ⚡ Fun fact **I love ducks 🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆**
 
 <h2 align="left">PROJECTS</h2>
+<h4>✨Aard✨</h4>
+<a href="https://github.com/Aard-Inc" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100451989?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Aard-Youtube" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/95868649?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Aard-Lang" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100322301?s=200&v=4" height="50" width="50" /></a>
+
 <h4>Main</h4>
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
-<a href="https://github.com/Aard-Official" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Normal</h4>
@@ -27,8 +31,9 @@
 
 <h4>Minor</h4>
 <a href="https://github.com/paprotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/src/public/pwa/icons/icon512.png" height="50" width="50" /></a>
-<a href="https://github.com/Shin-Stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
+<a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/vQuery/main/res/logo.png" height="50" width="50" /></a>
 
 <h4>Future</h4>
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
@@ -39,11 +44,12 @@
 <a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/Unia-Wolnosci" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924073?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924426?s=200&v=4" height="50" width="50" /></a>
-
+<a href="https://github.com/MeteorApp" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100322909?s=200&v=4" height="50" width="50" /></a>
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
 <h4>Languages</h4>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="37" height="37"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="37" height="37"/> </a>
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="37" height="37"/> </a>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="37" height="37"/> </a> 
 <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="37" height="37"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a> 
@@ -54,7 +60,7 @@
 <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
 
 <h4>Frontend</h4>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37" height="37"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37" height="37"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="37" height="37"/> </a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/> </a> 
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
