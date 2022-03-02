@@ -1,6 +1,6 @@
 <h1 align="center">Hi :‎‎‎‎‎‎‎), I'm Mateusz</h1>
 <h3 align="center">A begininng full-stack (¾ frontend) developer from Poland 🇵🇱</h3>
-<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=genesis-organization&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=aard-official&orgs=shin-stats&orgs=ampere-engine&orgs=maxwell-app&orgs=note-keeper&orgs=weatherio&orgs=iceberg-net&orgs=weber-stream&orgs=unia-wolnosci&orgs=formedic&orgs=day-log&orgs=urleaf">✨✨ SHOW STATS ✨✨</a></h3>
+<h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=paprotka2137&orgs=genesis-organization&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=aard-project&orgs=shin-stats&orgs=ampere-engine&orgs=maxwell-app&orgs=note-keeper&orgs=weatherio&orgs=iceberg-net&orgs=weber-stream&orgs=unia-wolnosci&orgs=formedic&orgs=day-log&orgs=urleaf">✨✨ SHOW STATS ✨✨</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paprotka2137&label=Profile%20views&color=0e75b6&style=flat" alt="paprotka2137" /> </p>
 
@@ -19,7 +19,7 @@
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Aard-Official" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
+<a href="https://github.com/Aard-project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
 
 <h4>Normal</h4>
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
