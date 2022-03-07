@@ -23,6 +23,7 @@
 <h4>Normal</h4>
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mLib-Project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mLib-Project/mLib/main/public/img/icons/icon512.png" alt="mlib" height="50" width="50" /></a>
+<a href="https://github.com/AirLanguage" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/101067085?s=200&v=4" alt="aard" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Minor</h4>
@@ -30,7 +31,6 @@
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/vQuery/main/res/logo.png" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/Air" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Air/main/res/logo.png" alt="aard" height="50" width="50" /></a>
 
 <h4>Future</h4>
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
