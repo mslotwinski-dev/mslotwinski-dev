@@ -27,12 +27,12 @@
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 <h4>Minor</h4>
-<a href="https://github.com/paprotka2137/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/Personal-Website/main/src/public/pwa/icons/icon512.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/src/public/pwa/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/vQuery/main/res/logo.png" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/2048" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/2048/main/lib/assets/img/logo/logo.png" height="50" width="50" /></a>
-<a href="https://github.com/paprotka2137/YT-Downloader" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/YT-Downloader/main/src/assets/logo/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/MangoUI/main/res/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/vQuery/main/res/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/2048" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/2048/main/lib/assets/img/logo/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/YT-Download" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/YT-Download/main/src/assets/logo/logo.png" height="50" width="50" /></a>
 
 <h4>Future</h4>
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
