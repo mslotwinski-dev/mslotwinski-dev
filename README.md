@@ -31,6 +31,8 @@
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/paprotka2137/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/vQuery/main/res/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/2048" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/2048/main/lib/assets/img/logo/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/paprotka2137/YT-Downloader" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/paprotka2137/YT-Downloader/main/src/assets/logo/logo.png" height="50" width="50" /></a>
 
 <h4>Future</h4>
 <a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
@@ -97,6 +99,6 @@
 <p><a href="https://ko-fi.com/mslotwinski"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mslotwinski" /></a></p><br><br>
 <br><br>
 
-<p style="display:block; margin: 10px;"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=paprotka2137&show_icons=true&locale=en&layout=compact&langs_count=10" alt="paprotka2137" /></p>
-<p style="display:block; margin: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paprotka2137&show_icons=true&locale=en" alt="paprotka2137" /></p>
-<p style="display:block; margin: 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paprotka2137&" alt="paprotka2137" /></p>
+<p style="display:block; "><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslotwinski-dev&show_icons=true&locale=en&layout=compact&langs_count=10" alt="paprotka2137" /></p>
+<p style="display:block; margin: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mslotwinski-dev&show_icons=true&locale=en" alt="paprotka2137" /></p>
+<p style="display:block; margin: 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mslotwinski-dev&" alt="paprotka2137" /></p>
