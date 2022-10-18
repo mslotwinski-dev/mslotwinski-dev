@@ -2,7 +2,7 @@
 <h3 align="center">A begininng full-stack (¾ frontend) developer from Poland 🇵🇱</h3>
 <h3 align="center"> <a href="https://shin.mslotwinski.eu/summary?username=mslotwinski-dev&orgs=genesis-organization&orgs=cloudy-app&orgs=mlib-project&orgs=analyse-me&orgs=aard-project&orgs=shin-stats&orgs=ampere-engine&orgs=maxwell-app&orgs=note-keeper&orgs=weatherio&orgs=iceberg-net&orgs=weber-stream&orgs=unia-wolnosci&orgs=formedic&orgs=day-log&orgs=urleaf&orgs=AirLanguage">✨✨ SHOW STATS ✨✨</a></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paprotka2137&label=Profile%20views&color=0e75b6&style=flat" alt="paprotka2137" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mslotwinski-dev&label=Profile%20views&color=0e75b6&style=flat" alt="mslotwinski-dev" /> </p>
 
 - ❤️ My favourite technology is [Vue](https://vuejs.org/)
 - 🔭 I’m currently working on [Genesis](https://genesis.mslotwinski.eu)
