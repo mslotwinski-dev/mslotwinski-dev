@@ -19,32 +19,22 @@
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
-<a href="https://github.com/Aard-project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Aard-Net/Aard-Docs/main/logo/border.png?token=ALC7L3NFJOX5QXYDLKNQAPLBWTKSG" alt="aard" height="50" width="50" /></a>
+<a href="https://github.com/Lewe-Korki" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/140198583?s=200&v=4" alt="lewekorki" height="50" width="50" /></a>
 
-<h4>Normal</h4>
+
+
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mLib-Project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mLib-Project/mLib/main/public/img/icons/icon512.png" alt="mlib" height="50" width="50" /></a>
 <a href="https://github.com/AirLanguage" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/101067085?s=200&v=4" alt="aard" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
-<h4>Minor</h4>
-<a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/src/public/pwa/icons/icon512.png" height="50" width="50" /></a>
+
+<a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/src/public/img/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/vQuery/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/2048" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/2048/main/lib/assets/img/logo/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/YT-Download" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/YT-Download/main/src/assets/logo/logo.png" height="50" width="50" /></a>
-
-<h4>Future</h4>
-<a href="https://github.com/Maxwell-App" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97642527?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Day-Log" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924572?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/URLeaf" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98991330?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/WeatherIO" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98719315?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Iceberg-Net" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923470?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Weber-Stream" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98923992?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/Unia-Wolnosci" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924073?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/ForMedic" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98924426?s=200&v=4" height="50" width="50" /></a>
-<a href="https://github.com/MeteorApp" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/100322909?s=200&v=4" height="50" width="50" /></a>
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
 <h4>Languages</h4>
