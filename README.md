@@ -20,10 +20,12 @@
 <a href="https://github.com/Cloudy-APP" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Cloudy-APP/Cloudy-Alpha/main/public/img/icons/icon512.png" alt="cloudy" height="50" width="50" /></a>
 <a href="https://github.com/Analyse-Me" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Analyse-Me/AnalyseMe/main/public/img/icons/icon-512x512.png" alt="analyseme" height="50" width="50" /></a>
 <a href="https://github.com/Lewe-Korki" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/140198583?s=200&v=4" alt="lewekorki" height="50" width="50" /></a>
+
 <a href="https://github.com/Note-Keeper" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/98667308?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mLib-Project" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mLib-Project/mLib/main/public/img/icons/icon512.png" alt="mlib" height="50" width="50" /></a>
 <a href="https://github.com/AirLanguage" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/101067085?s=200&v=4" alt="aard" height="50" width="50" /></a>
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
+
 <a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/MangoUI/main/res/logo.png" height="50" width="50" /></a>
