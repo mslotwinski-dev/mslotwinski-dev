@@ -13,7 +13,6 @@
 - ⚡ Fun fact **I love ducks 🦆🦆🦆🦆🦆🦆🦆🦆🦆🦆**
 
 <h2 align="left">PROJECTS</h2>
-<h4>Main</h4>
 
 <a href="https://github.com/mslotwinski-dev/edirac" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/eDirac/main/public/img/icons/512x512.png" height="50" width="50" /></a>
 <a href="https://github.com/Genesis-Organization" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/Genesis-Organisation/Genesis/main/public/img/icons/android-icon-192x192.png" alt="genesis" height="50" width="50" /></a>
