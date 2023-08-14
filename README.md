@@ -29,7 +29,7 @@
 <a href="https://github.com/Ampere-Engine" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/97345737?s=200&v=4" height="50" width="50" /></a>
 
 
-<a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/src/public/img/icons/icon512.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/Personal-Website" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/Personal-Website/main/public/img/icons/icon512.png" height="50" width="50" /></a>
 <a href="https://github.com/Shin-stats" target="blank"><img align="center" style="border-radius:5px;" src="https://avatars.githubusercontent.com/u/96634204?s=200&v=4" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/vQuery/main/res/logo.png" height="50" width="50" /></a>
