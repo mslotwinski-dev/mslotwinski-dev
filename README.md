@@ -30,7 +30,7 @@
 <a href="https://github.com/mslotwinski-dev/MangoUI" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/MangoUI/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/vQuery" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/vQuery/main/res/logo.png" height="50" width="50" /></a>
 <a href="https://github.com/mslotwinski-dev/2048" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/2048/main/lib/assets/img/logo/logo.png" height="50" width="50" /></a>
-<a href="https://github.com/mslotwinski-dev/YT-Downloader" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/YT-Downloader/main/src/assets/logo/logo.png" height="50" width="50" /></a>
+<a href="https://github.com/mslotwinski-dev/YT-Downloader" target="blank"><img align="center" style="border-radius:5px;" src="https://raw.githubusercontent.com/mslotwinski-dev/YT-Downloader/master/src/assets/logo/logo.png" height="50" width="50" /></a>
 
 <h2 align="left">Languages and Tools:</h2> <p align="left">
 <h4>Languages</h4>
