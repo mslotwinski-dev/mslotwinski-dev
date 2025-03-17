@@ -68,7 +68,10 @@
 </a>
 </p>
 <h2 align="center">🛠️ Projects</h2>
-
+<h3>eDirac</h3>
+<p>eDirac is a non-profit project focused on making education more accessible by providing free, comprehensive, and easily accessible textbooks.</p>
+<p style=\"margin: 8px 0; font-size: 16px; line-height: 1.6;\"> <a href=\"https://github.com/mslotwinski-dev/eDirac\" style=\"text-decoration: none; color: #00647D; font-weight: bold;\"><img align="center" src="https://github.com/mslotwinski-dev/eDirac/blob/main/public/readme_icon.png?raw=true" alt="eDirac" height="35" width="35" style="margin-right:10px;border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />eDirac</a> - eDirac is a non-profit project focused on making education more accessible by providing free, comprehensive, and easily accessible textbooks.  - TypeScriptVue, </p>
+<p style=\"margin: 8px 0; font-size: 16px; line-height: 1.6;\"> <a href=\"https://github.com/mslotwinski-dev/eDirac-Launcher\" style=\"text-decoration: none; color: #00647D; font-weight: bold;\"><img align="center" src="https://github.com/mslotwinski-dev/eDirac-Launcher/blob/main/public/readme_icon.png?raw=true" alt="eDirac-Launcher" height="35" width="35" style="margin-right:10px;border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />eDirac-Launcher</a> - Generator of book templates for eDirac - Go, </p>
 <h3>Grand Designs</h3>
 <p>Large-scale, complex projects that require significant planning and effort, often showcasing advanced skills.</p>
 <p style=\"margin: 8px 0; font-size: 16px; line-height: 1.6;\"> <a href=\"https://github.com/mslotwinski-dev/AncientPaws\" style=\"text-decoration: none; color: #00647D; font-weight: bold;\"><img align="center" src="https://github.com/mslotwinski-dev/AncientPaws/blob/main/public/readme_icon.png?raw=true" alt="AncientPaws" height="35" width="35" style="margin-right:10px;border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />AncientPaws</a> - The "AncientPaws" project is a console game developed in C++ where players control a capybara navigating through a jungle. The game involves various challenges and interactions set in a jungle environment, providing an engaging and fun experience. - C++, </p>
