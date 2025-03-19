@@ -21,7 +21,7 @@
     💻 <strong>Check out my projects on:</strong> <a href="https://github.com/mslotwinski-dev" target="_blank" style="color: #0366d6; font-weight: bold; text-decoration: none;">GitHub</a> 🌐<br/>
     📬 <strong>Reach me on:</strong> <em><a href="mailto:mateuszslotwinski16@gmail.com" style="color: #0366d6; font-weight: bold; text-decoration: none;">mateuszslotwinski16@gmail.com</a></em> ✉️<br/>
 </p>
-<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">🏢 Projects</h2>
+<h2 align="center" style="font-family: 'Arial', sans-serif; color: #333;">🧩 Modular projects</h2>
 <p align="center">
 <a href="https://github.com/Genesis-Organization" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://avatars.githubusercontent.com/u/94143624?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
@@ -67,7 +67,7 @@
     <img src="https://avatars.githubusercontent.com/u/140198583&v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 </p>
-<h2 align="center">🛠️ Projects</h2>
+<h2 align="center">🛠️ Standalone projects</h2>
 <h3>eDirac</h3>
 <p>eDirac is a non-profit project focused on making education more accessible by providing free, comprehensive, and easily accessible textbooks.</p>
 <p style=\"margin: 8px 0; font-size: 16px; line-height: 1.6;\"> <a href=\"https://github.com/mslotwinski-dev/eDirac\" style=\"text-decoration: none; color: #00647D; font-weight: bold;\"><img align="center" src="https://github.com/mslotwinski-dev/eDirac/blob/main/public/readme_icon.png?raw=true" alt="eDirac" height="35" width="35" style="margin-right:10px;border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />eDirac</a> - eDirac is a non-profit project focused on making education more accessible by providing free, comprehensive, and easily accessible textbooks.  - TypeScriptVue, </p>
