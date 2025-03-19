@@ -64,7 +64,7 @@
 </a>
 
 <a href="https://github.com/Lewe-Korki" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/140198583&v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+    <img src="https://raw.githubusercontent.com/Lewe-Korki/LeweKorki/refs/heads/master/public/img/icons/144x144.png" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 </p>
 <h2 align="center">🛠️ Standalone projects</h2>
