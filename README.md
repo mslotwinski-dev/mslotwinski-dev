@@ -5,7 +5,7 @@
     <a href="https://github.com/mslotwinski-dev" target="_blank" style="text-decoration: none;">
         <img align="center" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="mslotwinski-dev" height="40" width="40" style="border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />
     </a>
-    mslotwinski-dev (✨ <a href="https://shin-stats.netlify.app/summary?username=mslotwinski-dev&orgs=Genesis-Organization&orgs=Cloudy-APP&orgs=mLib-Project&orgs=Analyse-Me&orgs=Aard-Project&orgs=Ampere-Engine&orgs=Note-Keeper&orgs=Iceberg-Net&orgs=URLeaf&orgs=AirLanguage" target="_blank" style="color: #0366d6;">SHOW STATS</a> ✨)
+    mslotwinski-dev (✨ <a href="https://shin.mslotwinski.eu/summary?username=mslotwinski-dev&orgs=Genesis-Organization&orgs=Cloudy-APP&orgs=mLib-Project&orgs=Analyse-Me&orgs=Aard-Project&orgs=Ampere-Engine&orgs=Note-Keeper&orgs=Iceberg-Net&orgs=URLeaf&orgs=AirLanguage" target="_blank" style="color: #0366d6;">SHOW STATS</a> ✨)
 </h3>
 
 <p align="center">
