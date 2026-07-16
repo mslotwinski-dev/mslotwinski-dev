@@ -31,38 +31,6 @@
     <img src="https://avatars.githubusercontent.com/u/95831075?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
 
-<a href="https://github.com/mLib-Project" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/95831174?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/Analyse-Me" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/95831259?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/Aard-Project" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/95868649?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/Ampere-Engine" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/97345737?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/Note-Keeper" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/98667308?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/Iceberg-Net" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/98923470?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/URLeaf" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/98991330?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
-<a href="https://github.com/AirLanguage" target="_blank" style="text-decoration: none; margin: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/101067085?v=4" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</a>
-
 <a href="https://github.com/Lewe-Korki" target="_blank" style="text-decoration: none; margin: 10px;">
     <img src="https://raw.githubusercontent.com/Lewe-Korki/LeweKorki/refs/heads/master/public/img/icons/144x144.png" height="55" width="55" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
 </a>
