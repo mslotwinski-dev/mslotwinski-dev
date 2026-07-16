@@ -144,63 +144,139 @@
 
 <p style="margin: 8px 0; font-size: 16px; line-height: 1.6;"> <a href="https://github.com/mslotwinski-dev/Laplace" style="text-decoration: none; color: #00647D; font-weight: bold;"><img align="center" src="https://raw.githubusercontent.com/mslotwinski-dev/Laplace/refs/heads/main/public/readme_icon.png" alt="Laplace" height="35" width="35" style="margin-right:10px;border-radius: 5px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);" />Laplace</a> - Simple solar system simulation, showing gravitational interactions between celestial bodies, allowing users to visualize the dynamics of a solar system. - Python </p>
 
-<h2 align="left">Languages and Tools:</h2> <p align="left">
-<h4>Languages</h4>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="37" height="37"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="37" height="37"/> </a>
-<a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="37" height="37"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="37" height="37"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="37" height="37"/> </a> 
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="37" height="37"/> </a> 
-<a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a>
+<div align="center">
+  <h2>🛠️ Tech Stack & Engineering Skills</h2>
+  <p>Interdisciplinary expertise combining software engineering, technical physics, machine learning, and hardware.</p>
+  <br>
 
-<h4>Frontend</h4>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="37" height="37"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="37" height="37"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="37" height="37"/> </a> 
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-<a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="37" height="37"/> </a> 
-<a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="37" height="37"/> </a> 
-<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="37" height="37"/> </a> 
-<a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="37" height="37"/> </a> 
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="37" height="37"/> </a>
-<a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
+  <h4>💻 Programming Languages</h4>
+  <p>
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+    <br>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  </p>
+
+  <br>
+
+  <h4>⚛️ Physics, Simulations & Data Science</h4>
+  <p>
+    <img src="https://img.shields.io/badge/Machine_Learning-%23FF9900.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+    <img src="https://img.shields.io/badge/Deep_Learning-%23E34F26.svg?style=for-the-badge" alt="Deep Learning" />
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    <br>
+    <img src="https://img.shields.io/badge/Molecular_Dynamics-%2300599C.svg?style=for-the-badge" alt="Molecular Dynamics" />
+    <img src="https://img.shields.io/badge/DFT_Simulations-%234B0082.svg?style=for-the-badge" alt="DFT Simulations" />
+    <img src="https://img.shields.io/badge/Mathematica-%23DD1100.svg?style=for-the-badge" alt="Mathematica" />
+    <img src="https://img.shields.io/badge/CERN_ROOT-%230051A2.svg?style=for-the-badge" alt="ROOT" />
+  </p>
+
+  <br>
+
+  <h4>🔌 Embedded, Electronics & Hardware</h4>
+  <p>
+    <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+    <img src="https://img.shields.io/badge/AVR_Microcontrollers-%2300979D.svg?style=for-the-badge" alt="AVR" />
+    <img src="https://img.shields.io/badge/Siemens_NX_(CAD)-%2300599C.svg?style=for-the-badge" alt="Siemens NX" />
+    <br>
+    <img src="https://img.shields.io/badge/Hardware_%26_Electronics-%23B22222.svg?style=for-the-badge" alt="Hardware & Electronics" />
+    <img src="https://img.shields.io/badge/LabVIEW-%23FFCC00.svg?style=for-the-badge" alt="LabVIEW" />
+  </p>
+
+  <br>
+
+  <h4>🌐 Web Apps, Cloud & Networking</h4>
+  <p>
+    <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+    <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+    <br>
+    <img src="https://img.shields.io/badge/Computer_Networks-%23005571.svg?style=for-the-badge&logo=cisco&logoColor=white" alt="Computer Networks" />
+    <img src="https://img.shields.io/badge/Telecom_%26_Fiber_Optics-%231572B6.svg?style=for-the-badge" alt="Telecom & Fiber Optics" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="Bash" />
+  </p>
+</div>
+<br>
+
+<div align="left">
+  <h2>🔬 Applied Physics & Materials Engineering</h2>
   
-<h4>Backend</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="37" height="37"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="37" height="37"/> </a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="37" height="37"/> </a> 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="37" height="37"/> </a> 
-<a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="37" height="37"/> </a> 
-  
-<h4>Databases</h4>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="37" height="37"/> </a>
+  <blockquote>
+    <p><b>Technical Physics Student & Interdisciplinary Engineer</b><br>
+    Bridging deep scientific knowledge with practical technological applications. My unique background allows me to seamlessly integrate software engineering, electronics, and computational simulations with the <b>semiconductor and solid-state ionic technologies of the future</b>.</p>
+  </blockquote>
 
-<h4>Testing</h4>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
-<a href="https://karma-runner.github.io/latest/index.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height="40"/> </a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> 
-  
-</p>
+  <h3>🌟 Core Specializations</h3>
+  <p>
+    My daily research focuses on the physics of advanced materials and their modern applications. I specialize in:<br>
+    ⚡ <b>Solid-State Ionics, Optics & Electronics</b> <br>
+    🔮 <b>Glassy Materials & Glass-Ceramic Composites</b> <br>
+    🔋 <b>Energy Processing & Next-Gen Storage Technologies</b>
+  </p>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://fb.com/czesc.tu.mati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="czesc.tu.mati" height="30" width="40" /></a>
-<a href="https://instagram.com/mateusz.slotwinski_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusz.slotwinski_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucklh5pylv7ofnjcxlcb8jpg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucklh5pylv7ofnjcxlcb8jpg" height="30" width="40" /></a>
-</p>
+  <h3>🧪 Academic Focus & Research Projects</h3>
+  <ul>
+    <li style="margin-bottom: 10px;">
+      <b>B.Eng. Thesis:</b> <i>Prototype of a white LED with a glassy phosphor NaF-Al₂O₃-P₂O₅ : Eu</i>
+    </li>
+    <li style="margin-bottom: 10px;">
+      <b>AI & Molecular Dynamics:</b> Implementing Neural Networks and Machine Learning potentials to simulate ionic transport and molecular dynamics in glassy materials with quantum accuracy at minimal computational cost.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <b>Solid-State Batteries & Superionic Conductors:</b> Synthesis and research (XRD, impedance measurements, micro-structure analysis) of highly conductive glass-ceramic composites (Li+, Na+, K+, O2-) as safe alternatives for next-generation solid-state batteries and fuel cells.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <b>Optoelectronics & Silico-Phosphate Glasses:</b> Synthesis and comprehensive electrical/optical characterization of novel amorphous materials, crucial for designing next-generation fiber optics, sensors, and laser technologies.
+    </li>
+    <li style="margin-bottom: 10px;">
+      <b>Applied nuclear physics:</b> Practical experience with particle accelerators, including software control development, industrial electronics, ion pumps, vacuum furnaces, and hydraulic cooling systems. I'm also intrested in radiochemistry, nuclear power and medical applications of nuclear physics. 
+    </li>
+  </ul>
 
-<h2 align="left">Support:</h2>
-<p><a href="https://ko-fi.com/mslotwinski"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mslotwinski" /></a></p><br><br>
-<br><br>
+  <h3>💡 Scientific Competencies</h3>
+  <p>
+    ✔️ <b>Nanotechnology:</b> Comprehensive knowledge of the synthesis, processes, and technologies behind advanced nanostructures and low-dimensional systems.<br>
+    ✔️ <b>Semiconductor Physics:</b> Practical expertise in optoelectronics, photonics, solid-state electronics, and semiconductor structures.<br>
+    ✔️ <b>Cross-Disciplinary Integration:</b> Ability to design systems that measure, analyze, and react to environmental changes, while effectively communicating with experts across diverse scientific fields.
+  </p>
+</div>
 
-<p style="display:block; "><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mslotwinski-dev&show_icons=true&locale=en&layout=compact&langs_count=10" alt="paprotka2137" /></p>
-<p style="display:block; margin: 10px;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mslotwinski-dev&show_icons=true&locale=en" alt="paprotka2137" /></p>
-<p style="display:block; margin: 10px;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mslotwinski-dev&" alt="paprotka2137" /></p>
+<br>
+<hr>
 
-<p align="center" style="font-size: 14px; color: #555;">Generated with ❤️ by <a href="https://github.com/mslotwinski-dev/CodeHub" style="color: #00647D; font-weight: bold; text-decoration: none;" target="_blank">CodeHub</a></p>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=FFA500&width=435&lines=Thanks+for+visiting!+Come+back+soon!" alt="thanks"></p>
+<div align="center">
+  <h2>📫 Connect with me</h2>
+  <p>
+    <a href="https://mslotwinski.eu" target="_blank"><img src="https://img.shields.io/badge/Website-mslotwinski.eu-%2300647D?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+    <a href="https://linkedin.com/in/mslotwinski" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  </p>
+
+  <br>
+
+  <h2>☕ Support my work</h2>
+  <p>
+    <a href="https://ko-fi.com/mslotwinski" target="_blank">
+      <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" title="Support me on ko-fi" height="40">
+    </a>
+  </p>
+
+  <br>
+
+  <h2>📈 GitHub Stats</h2>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mslotwinski-dev&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  </p>
+
+  <p style="font-size: 14px; color: #555;">Generated with ❤️ by <a href="https://github.com/mslotwinski-dev/CodeHub" style="color: #00647D; font-weight: bold; text-decoration: none;" target="_blank">CodeHub</a></p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=00647D&width=435&lines=Thanks+for+visiting!;Come+back+soon!" alt="Typing SVG">
+  </p>
+</div>
